@@ -29,8 +29,5 @@
     "ubuntu font"
   ],
   "private": false,
-  "license": "MIT",
-  "dependencies": {
-    "mkpath": "^1.0.0"
-  }
+  "license": "MIT"
 }
